@@ -1,4 +1,4 @@
-// Remove files with these paths.
+# Remove files with these paths.
 *.in
 *.out
 *.pyc
